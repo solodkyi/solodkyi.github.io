@@ -1,15 +1,11 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": ["6HJHJTU9GY.com.localtrade.DeFiWallet"],
-             "components": [
-               {
-                  "/": "/wc",
-                  "comment": "WalletConnect universal link handling"
-               }
-             ]
-           }
-       ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6HJHJTU9GY.com.localtrade.DeFiWallet",
+                "paths": [ "/index.html/wc"]
+            }
+        ]
+    }
 }
